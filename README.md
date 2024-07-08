@@ -1,25 +1,24 @@
+
 👋 Hi, I'm Karan Bhatt! I'm a data analyst with over 3 years of experience in data analysis, catalog management, and master data management. I excel in transforming data into actionable insights using tools like Python, R, SQL, Power BI, and Tableau.
 
-🔍 Core Skills:
+🔍 **Core Skills:**
+- **Data Analysis & Visualization:** Skilled in extracting insights and creating interactive dashboards.
+- **Data Management:** Expertise in data governance, integration, and maintaining data quality.
+- **Machine Learning & NLP:** Proficient in developing predictive models and applying NLP techniques.
+- **Tools:** MS Excel, SQL, SSIS, MS Azure, Git, Databricks.
 
-Data Analysis & Visualization: Skilled in extracting insights and creating interactive dashboards.
-Data Management: Expertise in data governance, integration, and maintaining data quality.
-Machine Learning & NLP: Proficient in developing predictive models and applying NLP techniques.
-Tools: MS Excel, SQL, SSIS, MS Azure, Git, Databricks.
-📈 Experience:
+🎓 **Education:**
+- **MSc in Data Science from London South Bank University**
+- **BSc in Computer Applications from Indus University**
 
-The Co-Op Group: Enhanced inventory management and reporting with Power BI.
-Sharan Computer Systems: Optimized inventory levels and developed forecasting models.
-🎓 Education:
+📜 **Certifications:**
+- **SQL: Data Reporting and Analysis | LinkedIn Learning**
+- **PowerBI | LinkedIn Learning**
+- **IBM Data Science Professional Program | IBM**
 
-MSc in Data Science from London South Bank University
-BSc in Computer Applications from Indus University
-📜 Certifications:
+Explore my projects on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/karanbhatt99/)!
 
-SQL: Data Reporting and Analysis | LinkedIn Learning
-PowerBI | LinkedIn Learning
-IBM Data Science Professional Program | IBM
-Explore my projects on GitHub and connect with me on LinkedIn!
+
 
 <!---
 karanbhatt99/karanbhatt99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
